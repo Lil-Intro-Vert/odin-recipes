@@ -1,0 +1,1 @@
+In this project, I will demonstrate my ability to create a basic website from scratch using HTML, CSS, and Git.
